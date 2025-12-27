@@ -1,91 +1,47 @@
 ---
 marp: true
-title: Hunan Culture
+theme: default
 paginate: true
 size: 16:9
 ---
 
-# Hunan Culture
+# 湖南文化
 
-A concise Marp slide deck about Hunan (湖南): history, people, food, arts, and travel.
+课堂演示（5页）
 
----
-
-## Where is Hunan?
-
-- In south-central China
-- Capital: **Changsha (长沙)**
-- Rivers & lakes: Xiang River (湘江), Dongting Lake (洞庭湖)
+- 主题：湖湘文化的代表性与当代价值
+- 适用：中学/大学通识课堂
 
 ---
 
-## A brief historical sketch
+## 一、地理与历史脉络
 
-- Chu cultural sphere influences (Warring States)
-- Important role in late Qing and early modern Chinese history
-- Birthplace of several influential modern figures and movements
-
----
-
-## Language & identity
-
-- Major Sinitic varieties include:
-  - **Xiang Chinese (湘语)**
-  - Southwestern Mandarin in some areas
-- Strong regional identity often summed up as **“吃得苦、霸得蛮”** (endure hardship; be bold)
+- **地理**：洞庭湖与湘江流域，山水相依，孕育农耕与商贸
+- **历史**：楚文化影响深厚，秦汉以来郡县发展，形成独特地域气质
+- **关键词**：湖湘、洞庭、湘江、楚风
 
 ---
 
-## Food: famous for "xiang la" (香辣)
+## 二、思想与教育传统（湖湘精神）
 
-- Hallmark flavors: **spicy**, **smoky**, **sour**, **pickled**
-- Signature ingredients:
-  - Fresh chilies, fermented beans, garlic, shallots
-  - Preserved meats and cured fish in some areas
-
----
-
-## Iconic dishes
-
-- 剁椒鱼头 (Steamed fish head with chopped chili)
-- 小炒黄牛肉 (Stir-fried beef with chili)
-- 腊味合蒸 (Steamed assorted cured meats)
-- 臭豆腐 (Changsha stinky tofu)
+- **书院文化**：岳麓书院等推动学术传承与公共讨论
+- **经世致用**：重实践、重担当，强调“学以致用”
+- **近代影响**：近代人才辈出，形成敢为人先、忧乐天下的精神底色
 
 ---
 
-## Tea, rice, and everyday staples
+## 三、语言、艺术与日常生活
 
-- Rice is central; noodles are popular in cities
-- Local teas and herbal drinks are common
-- Night markets in Changsha are a modern food-culture highlight
-
----
-
-## Arts & performance
-
-- **Huaguxi (花鼓戏)**: folk opera known for lively music and humor
-- Folk crafts: embroidery, bamboo weaving, paper cutting
-- Contemporary culture: music and online media scenes in Changsha
+- **方言**：湘语多样，体现地域分布与历史迁徙
+- **非遗与艺术**：湘绣、花鼓戏、剪纸等
+- **饮食**：湘菜以“鲜、香、辣”著称（剁椒、腊味、米粉等）
 
 ---
 
-## Landscapes & travel highlights
+## 四、当代价值与思考
 
-- **Zhangjiajie (张家界)**: quartz-sandstone pillars and national park
-- **Fenghuang (凤凰古城)**: historic town on the Tuo River
-- **Mount Heng (衡山)**: one of China’s Five Great Mountains
-
----
-
-## What to remember
-
-- Hunan blends ancient Chu roots with modern dynamism
-- Cuisine is bold and fragrant
-- Landscapes range from rivers and plains to dramatic mountains
-
----
-
-# Thanks
-
-Questions?
+- **文化自信**：从地方文化理解中国多样性
+- **文旅与产业**：非遗活化、文创、数字化传播（短视频/展陈）
+- **课堂讨论**：
+  1. 你认为“湖湘精神”最当代的内涵是什么？
+  2. 传统文化如何在不失真前提下实现创新传播？
